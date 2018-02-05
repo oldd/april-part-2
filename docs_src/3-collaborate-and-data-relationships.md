@@ -1,4 +1,10 @@
-Welcome to the world of fullstack!  you will now be learning hardcore software development.
+Collaboratively build starbook  
+
+Learning Objectives:  
+
+data relationships,  
+testing to not screw each other over,  
+documenting a project (auto-generators and other),  
 
 
 ___

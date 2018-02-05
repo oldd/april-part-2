@@ -1,11 +1,11 @@
-learning objectives:
+Authentication and passport  
+  
+learning objectives:  
 
-building and scripting
-	gulp, shell
-API's
-using Node.js - require, ...
-
-link to repo
+the autentication flow (short, crude, manually),  
+passport,  
+passport strategies,  
+a little bit about cyber-security  
 
 
 ___

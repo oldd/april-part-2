@@ -1,10 +1,9 @@
+Frontend apps jquery only)
+
 learning objectives:
 
-javascript objects
-logic vs framework
-simple testing 
-
-link to project repo
+fe/be data issues,  
+async calling,   
 
 
 ___

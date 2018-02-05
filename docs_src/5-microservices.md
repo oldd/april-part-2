@@ -1,5 +1,8 @@
-Welcome to the world of fullstack!  you will now be learning hardcore software development.
+Modular design and microservices
 
+learning objectives:  
+
+thinking of big apps as many little apps
 
 ___
 ___

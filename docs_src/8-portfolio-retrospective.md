@@ -1,13 +1,6 @@
-your group decides what app to build
-learning objectives:
+Take a moment to go through everything you've built so far.  brush up the ones you're proud of, redo the ones you're not.  
 
-app planning
-specs to share work
-group gitting
-
-link to repo
-
-
+refresh your portfolio
 
 ___
 ___

@@ -1,12 +1,9 @@
-learning objectives
+EVERYTHING IN ONE APP
 
-application design / file structures
-further object orientation
-testing
+learning objectives:
 
-link to project repo
-
-
+data api, static server, logic api, fapp.  
+do a simple but sophisticated project
 
 ___
 ___

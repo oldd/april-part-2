@@ -1,4 +1,13 @@
-Welcome to the world of fullstack!  you will now be learning hardcore software development.
+Cleancalc 2.0
+
+learning objectives:
+
+modular design,  
+first exposure to node/express/ejs (largely read-only),  
+run apps in backend,  
+fullstackness, 
+logic vs framework,  
+dealing with large projects,  
 
 
 ___

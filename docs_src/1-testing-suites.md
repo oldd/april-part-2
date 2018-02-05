@@ -1,13 +1,9 @@
-learning objectives
+Build a testing suite for cc 2.0
 
-repo organization
-feature-based development cycle
-MVC
-using specs
+Learning objectives:
 
-link to repo
-
-(built around PJS)
+familiarize with jasmine,  
+wtfi tdd,  
 
 
 ___
