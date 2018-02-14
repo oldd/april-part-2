@@ -5,6 +5,7 @@ Learning objectives:
 familiarize with jasmine,  
 wtfi tdd,  
 
+rmurphy js-testing repo
 
 ___
 ___
