@@ -1,6 +1,7 @@
 Take a moment to go through everything you've built so far.  brush up the ones you're proud of, redo the ones you're not.  
 
 refresh your portfolio
+build portfolio meta-app
 
 ___
 ___
